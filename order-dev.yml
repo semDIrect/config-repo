@@ -12,5 +12,5 @@ spring:
 env:
   dev
 girl:
-  name: a
+  name: a7
   age: 25
